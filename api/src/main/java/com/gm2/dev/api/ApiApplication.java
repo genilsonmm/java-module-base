@@ -15,5 +15,4 @@ public class ApiApplication {
         System.out.println(message.get());
         SpringApplication.run(ApiApplication.class, args);
     }
-
 }
